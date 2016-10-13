@@ -1,4 +1,20 @@
-Simple CSS Grid
-===============
+Simple Responsive Grid
+======================
 
-A simple 100% flex CSS grid. See the example.html file
+A simple fluid responsive CSS grid.
+
+Features
+--------
+
+- Responsive
+- Fluid ( 100% width )
+- 12 columns
+- Nomenclature similar to Bootstrap
+- Dead simple implementation:
+  - One CSS File
+  - 185 lines of uncompressed CSS
+
+Usage
+--------
+
+Check the example.html file :)
